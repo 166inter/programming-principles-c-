@@ -1,0 +1,42 @@
+//
+<<
+C++
+comment
+compiler
+compile-time error
+cout
+executable
+function
+header
+IDE
+#include
+library
+linker
+main()
+object code
+output
+program
+source code
+statement
+
+
+//
+<<
+C++
+comment
+compiler
+compile-time error
+cout
+executable
+function
+header
+IDE
+#include
+library
+linker
+main()
+object code
+output
+program
+source code
+statement
